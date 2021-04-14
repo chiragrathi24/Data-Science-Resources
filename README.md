@@ -1,2 +1,2 @@
-# Data-Science-Rwsources
+# Data-Science-Resources
 Data Science Resources
