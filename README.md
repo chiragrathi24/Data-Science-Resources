@@ -1,4 +1,4 @@
-# Data-Science-Resources
+# Data-Science-Resources 📊
 Data Science Resources
 1. Matplotlib
 2. NumPy
