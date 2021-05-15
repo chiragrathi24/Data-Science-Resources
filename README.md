@@ -7,3 +7,4 @@ Data Science Resources:
 5. Python
 6. SQL
 7. Scikit-learn
+8. 
