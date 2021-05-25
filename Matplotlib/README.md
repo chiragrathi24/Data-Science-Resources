@@ -3,5 +3,7 @@
 
 <br>
 
+Documentation: https://matplotlib.org/stable/index.html
+
 1. Different charts and graphs
 2. Matplotlib cheat sheet
